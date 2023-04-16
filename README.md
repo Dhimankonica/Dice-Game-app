@@ -1,4 +1,4 @@
-# My-Own-Website
+# Dice-game
 echo "# My-Own-Website" >> README.md
 git init
 git add README.md
